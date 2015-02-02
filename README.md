@@ -9,3 +9,8 @@ This is a repository with my configuration files.
 
 2  Replace `VIMRC` into your `.vimrc`
 
+
+### Xresource
+
+Configure terminal colors, Xcursor and X font setting
+ 
